@@ -1,0 +1,31 @@
+# Python/Django
+refurbished-backend/__pycache__/
+refurbished-backend/**/*.pyc
+refurbished-backend/db.sqlite3
+refurbished-backend/venv/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# React/Node
+refurbished-frontend/node_modules/
+refurbished-frontend/.env
+build/
+.env
+
+# System
+.DS_Store
+Thumbs.db
+# Ignore Python virtual environment
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+node_modules/
+build/
+dist/
+
