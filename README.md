@@ -42,6 +42,9 @@ It helps maximize profits while avoiding unprofitable listings using platform-sp
 | Scrap     | Scrap   | 1 star (Usable) | Good   |
 
 
+DEMO LINK : https://drive.google.com/file/d/1AOmCOGsTKCXF6PJJaIVe2E4FK3CTs_fh/view?usp=sharing
+
+
 ## 🚀 How to Run Locally
 
 ### 📁 Clone the Repository
