@@ -5,8 +5,8 @@ It helps maximize profits while avoiding unprofitable listings using platform-sp
 ## 💡 Project Highlights
 - Add phones with full details: name, condition, pricing, stock, and sale type.
 - Automatically calculates platform-specific fees and profits.
-- Shows **all profitable platforms** for each phone.
-- Highlights the **best platform** based on maximum profit.
+- Shows all profitable platforms for each phone.
+- Highlights the best platform based on maximum profit.
 - Adapts condition descriptions per platform.
 - Prevents listing phones with zero stock or already sold.
 - Clean, responsive UI with Bootstrap cards, hover effects, and centralized styling.
@@ -50,7 +50,7 @@ It helps maximize profits while avoiding unprofitable listings using platform-sp
 git clone https://github.com/your-username/your-repo-name.git
 cd refurbished-phone-selling-app
 
-### Backend Setup (Django + DRF)
+### **Backend Setup** (Django + DRF)
 cd refurbished-backend
 python -m venv venv
 venv\Scripts\activate   # Use `source venv/bin/activate` if you're on Mac/Linux
@@ -59,7 +59,7 @@ python manage.py migrate
 python manage.py runserver
 By default, backend runs at: http://127.0.0.1:8000/
 
-###Frontend Setup (React)
+###**Frontend Setup** (React)
 cd refurbished-frontend
 npm install
 npm start
